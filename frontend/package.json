@@ -144,7 +144,7 @@
     "lint-staged": "^12.3.1",
     "lodash": "^4.17.21",
     "next": "14.2.12",
-    "next-router-mock": "0.9.12",
+    "next-router-mock": "0.9.13",
     "nock": "^13.5.0",
     "picocolors": "1.0.0",
     "prettier": "^2.5.1",
