@@ -40,7 +40,7 @@
     "react-input-mask": "^2.0.4",
     "react-loading-skeleton": "^3.0.3",
     "react-markdown": "^8.0.7",
-    "react-pdf": "^8.0.2",
+    "react-pdf": "^9.1.1",
     "react-query": "^3.34.0",
     "react-toastify": "^9.0.4",
     "snakecase-keys": "^5.4.2",
