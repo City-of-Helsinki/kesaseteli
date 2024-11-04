@@ -43,7 +43,7 @@
     "react-pdf": "^8.0.2",
     "react-query": "^3.34.0",
     "react-toastify": "^9.0.4",
-    "snakecase-keys": "^5.4.2",
+    "snakecase-keys": "^8.0.1",
     "styled-components": "^5.3.11",
     "uuid": "^8.3.2",
     "yup": "^0.32.9"
