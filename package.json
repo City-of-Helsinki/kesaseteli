@@ -3,7 +3,7 @@
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "cross-env": "^7.0.3",
-    "husky": "^8.0.3"
+    "husky": "^9.1.7"
   },
   "engines": {
     "node": ">=18.16.0 <19.0.0"
