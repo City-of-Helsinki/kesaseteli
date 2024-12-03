@@ -21,7 +21,7 @@
     "@frontend/kesaseteli-shared": "*",
     "@frontend/shared": "*",
     "@sentry/browser": "^7.16.0",
-    "@sentry/nextjs": "^7.16.0",
+    "@sentry/nextjs": "^8.42.0",
     "axios": "^0.27.2",
     "dotenv": "^16.0.0",
     "hds-design-tokens": "^2.17.1",
