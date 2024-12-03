@@ -17,7 +17,7 @@
   "dependencies": {
     "@frontend/benefit-shared": "*",
     "@frontend/shared": "*",
-    "@sentry/browser": "^7.16.0",
+    "@sentry/browser": "^8.42.0",
     "@tiptap/core": "^2.2.4",
     "@tiptap/extension-document": "^2.2.4",
     "@tiptap/extension-heading": "^2.2.4",
