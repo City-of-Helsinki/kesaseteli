@@ -20,7 +20,7 @@
     "@frontend/shared": "*",
     "@frontend/tet-shared": "*",
     "@sentry/browser": "^7.16.0",
-    "@sentry/nextjs": "^7.16.0",
+    "@sentry/nextjs": "^8.42.0",
     "axios": "^0.27.2",
     "date-fns": "^2.24.0",
     "dotenv": "^16.0.0",
