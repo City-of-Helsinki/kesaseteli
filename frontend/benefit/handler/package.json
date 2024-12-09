@@ -35,7 +35,7 @@
     "finnish-ssn": "^2.1.2",
     "formik": "^2.2.9",
     "fuse.js": "^6.6.2",
-    "hds-design-tokens": "^2.17.1",
+    "hds-design-tokens": "^4.0.0",
     "hds-react": "^2.17.1",
     "ibantools": "^4.3.4",
     "lodash": "^4.17.21",
