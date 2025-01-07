@@ -34,7 +34,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^3.2.5",
-    "react-leaflet-markercluster": "^3.0.0-rc1",
     "react-query": "^3.34.0",
     "sharp": "^0.33.0",
     "styled-components": "^5.3.11"

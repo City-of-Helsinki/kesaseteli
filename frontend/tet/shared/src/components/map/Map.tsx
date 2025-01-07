@@ -7,7 +7,6 @@ import React from 'react';
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 // eslint-disable-next-line import/no-extraneous-dependencies
-import MarkerClusterGroup from 'react-leaflet-markercluster';
 import { useTheme } from 'styled-components';
 import {
   $Address,
@@ -19,6 +18,7 @@ import {
 import TetPosting from 'tet-shared/types/tetposting';
 
 import { Icon } from './MapIcon';
+import MarkerClusterGroup from './MarkerClusterGroup';
 
 type Props = {
   postings: TetPosting[];
