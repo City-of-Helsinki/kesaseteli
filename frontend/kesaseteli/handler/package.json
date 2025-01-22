@@ -35,7 +35,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.30.0",
     "react-query": "^3.34.0",
-    "react-toastify": "^9.0.4",
+    "react-toastify": "^10.0.6",
     "styled-components": "^5.3.11",
     "ts-node": "^10.0.0"
   },
