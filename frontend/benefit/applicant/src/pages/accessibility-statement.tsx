@@ -104,6 +104,8 @@ const AccessibilityStatement: NextPage = () => {
                 {t(`${tBase}.sections.section9.contact3`)}
                 <br />
                 {t(`${tBase}.sections.section9.contact4`)}
+                <br />
+                {t(`${tBase}.sections.section9.contact5`)}
               </p>
               <p>{t(`${tBase}.sections.section9.content2`)}</p>
             </div>

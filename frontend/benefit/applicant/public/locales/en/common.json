@@ -868,7 +868,7 @@
       },
       "section4": {
         "heading1": "Preparing the accessibility statement",
-        "content1": "This statement has been updated on 5 June 2023."
+        "content1": "This statement has been updated on 7 January 2025."
       },
       "section5": {
         "heading1": "Assessing accessibility",
@@ -894,11 +894,12 @@
       },
       "section9": {
         "heading1": "Accessibility monitoring",
-        "content1": "The Southern Finland Regional State Administrative Agency supervises the fulfilment of accessibility requirements. If you are dissatisfied with your response – or if you receive no response within two weeks – you can submit feedback to the Southern Finland Regional State Administrative Agency.",
-        "contact1": "Southern Finland Regional State Administrative Agency,",
-        "contact2": "Accessibility Monitoring Unit",
-        "contact3": "www.saavutettavuusvaatimukset.fi",
-        "contact4": "saavutettavuus@avi.fi",
+        "content1": "The Finnish Transport and Communication Agency Traficom supervises the fulfilment of accessibility requirements. If you are dissatisfied with your response – or if you receive no response within two weeks – you can submit feedback to the Finnish Transport and Communication Agency Traficom.",
+        "contact1": "Finnish Transport and Communication Agency Traficom",
+        "contact2": "Digital Accessibility Supervision Unit",
+        "contact3": "www.webaccessibility.fi",
+        "contact4": "saavutettavuus@traficom.fi",
+        "contact5": "telephone switchboard 029 534 5000",
         "content2": "The City of Helsinki Employment Services Unit is responsible for the accessibility statement of the Helsinki benefit service."
       },
       "section10": {

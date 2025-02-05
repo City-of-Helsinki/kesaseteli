@@ -868,7 +868,7 @@
       },
       "section4": {
         "heading1": "Saavutettavuusselosteen laatiminen",
-        "content1": "Tämä seloste on päivitetty 05.06.2023."
+        "content1": "Tämä seloste on päivitetty 07.01.2025."
       },
       "section5": {
         "heading1": "Saavutettavuuden arviointi",
@@ -894,11 +894,12 @@
       },
       "section9": {
         "heading1": "Saavutettavuuden valvonta",
-        "content1": "Etelä-Suomen aluehallintovirasto valvoo saavutettavuusvaatimusten toteutumista. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, voit antaa palautteen Etelä-Suomen aluehallintovirastoon.",
-        "contact1": "Etelä-Suomen aluehallintovirasto,",
-        "contact2": "Saavutettavuuden valvonnan yksikkö",
+        "content1": "Liikenne- ja viestintävirasto Traficom valvoo saavutettavuusvaatimusten toteutumista. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, voit antaa palautteen Liikenne- ja viestintävirasto Traficomiin.",
+        "contact1": "Liikenne- ja viestintävirasto Traficom",
+        "contact2": "Digitaalisen esteettömyyden ja saavutettavuuden valvontayksikkö",
         "contact3": "www.saavutettavuusvaatimukset.fi",
-        "contact4": "saavutettavuus@avi.fi",
+        "contact4": "saavutettavuus@traficom.fi",
+        "contact5": "puhelinnumero (vaihde) 029 534 5000",
         "content2": "Helsinki-lisä -asiointi palvelun saavutettavuusselosteesta vastaa Helsingin kaupungin työllisyyspalvelut -yksikkö."
       },
       "section10": {

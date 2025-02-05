@@ -868,7 +868,7 @@
       },
       "section4": {
         "heading1": "Upprättande av tillgänglighetsutlåtande",
-        "content1": "Detta utlåtande är uppdaterad 5.6.2023."
+        "content1": "Detta utlåtande är uppdaterad 7.1.2025."
       },
       "section5": {
         "heading1": "Utvärdering av tillgänglighet",
@@ -894,11 +894,12 @@
       },
       "section9": {
         "heading1": "Tillsyn av tillgänglighet",
-        "content1": "Regionförvaltningsverket i Södra Finland övervakar att tillgänglighetskraven uppfylls. Om du inte är nöjd med det svar du fick eller om du inte får något svar inom två veckor, kan du ge respons till regionförvaltningsverket i Södra Finland.",
-        "contact1": "Regionförvaltningsverket i Södra Finland,",
-        "contact2": "Enheten för tillgänglighetstillsyn",
-        "contact3": "www.saavutettavuusvaatimukset.fi",
-        "contact4": "saavutettavuus@avi.fi",
+        "content1": "Transport- och kommunikationsverket Traficom övervakar att tillgänglighetskraven uppfylls. Om du inte är nöjd med det svar du fick eller om du inte får något svar inom två veckor, kan du ge respons till Transport- och kommunikationsverket Traficom.",
+        "contact1": "Transport- och kommunikationsverket Traficom,",
+        "contact2": "Enheten för tillsyn över digital tillgänglighet",
+        "contact3": "www.tillganglighetskrav.fi",
+        "contact4": "tillganglighet@traficom.fi",
+        "contact5": "telefonnummer (växeln) 029 534 5000",
         "content2": "För tillgänglighetsutlåtandet för tjänsten Helsingforstillägget ansvarar enheten Helsingfors stads sysselsättningstjänster."
       },
       "section10": {
