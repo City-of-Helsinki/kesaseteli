@@ -614,10 +614,10 @@ def ahjo_decision_detail_response(application_with_ahjo_decision):
     content = f'<html lang="fi"><head><META content="text/html; charset=UTF-8" http-equiv="Content-Type">\
 <META name="DhId" content="{id}">\
 <META name="ThisHTMLGenerated" content="2024-04-09T13:48:35.106+03:00">\
-<title>Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä vuonna 2024</title></head>\
+<title>Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä</title></head>\
 <body><div class="paatos"><div class="Otsikonviite"></div><div class="Otsikonviite2"></div>\
 <div class="Asiapykala">16 §</div>\
-<h1 class="AsiaOtsikko">Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä vuonna 2024</h1>\
+<h1 class="AsiaOtsikko">Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä</h1>\
 <div class="DnroTmuoto">HEL 2024-004415 T 02 05 01 00</div><div class="Viite"></div>\
 <div class="Viite"></div><div class="SisaltoSektio"><h3 class="SisaltoOtsikko">Päätös</h3>\
 <div><p>Helsinki-lisä-suunnittelija päätti myöntää {company}:lle \
@@ -736,7 +736,7 @@ Asiakirjoja voi tilata Helsingin kaupungin kirjaamosta.</p>\
                 }
             ],
             "NativeId": "{02A081B6-7B7C-4309-B95A-3A53D222B4CE}",
-            "Title": "Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä vuonna 2024",
+            "Title": "Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä",
             "CaseIDLabel": f"{application_with_ahjo_decision.ahjo_case_id}",
             "Section": "16",
             "Content": content,
@@ -812,7 +812,7 @@ Asiakirjoja voi tilata Helsingin kaupungin kirjaamosta.</p>\
                         "href": "https://test.test",
                     }
                 ],
-                "Title": "Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä vuonna 2024",
+                "Title": "Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä",
                 "AttachmentNumber": None,
                 "PublicityClass": "Julkinen",
                 "SecurityReasons": None,

@@ -264,7 +264,7 @@ class AhjoRecordTitle(models.TextChoices):
     APPLICATION = "Hakemus", _("Application title")
     ATTACHMENT = "Hakemuksen liite", _("Application attachmen title")
     DECISION_PROPOSAL = (
-        "Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä vuonna 2024",
+        "Avustuksen myöntäminen, Työllisyyspalvelut, työllisyydenhoidon Helsinki-lisä",
         _("Decision proposal title"),
     )
     SECRET_ATTACHMENT = "Päätöksen liite", _("Secret decision attachment title")
