@@ -1,6 +1,6 @@
 {
   "name": "@frontend/employer",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env PORT=3000 node ../../shared/src/server/next-server.js",
