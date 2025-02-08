@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/City-of-Helsinki/yjdh/compare/tet-backend-v1.3.1...tet-backend-v1.3.2) (2025-02-08)
+
+
+### Bug Fixes
+
+* Include CSRF token in tet userinfo endpoint response ([e7a708f](https://github.com/City-of-Helsinki/yjdh/commit/e7a708f59cbceb81960f261f65d3587e4cffde81))
+
 ## [1.3.1](https://github.com/City-of-Helsinki/yjdh/compare/tet-backend-v1.3.0...tet-backend-v1.3.1) (2024-10-09)
 
 
