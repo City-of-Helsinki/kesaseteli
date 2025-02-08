@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.0](https://github.com/City-of-Helsinki/yjdh/compare/kesaseteli-youth-v1.4.0...kesaseteli-youth-v1.5.0) (2025-02-08)
+
+
+### Features
+
+* Make "yarn dev" crossplatform in kesaseteli handler/employer/youth ([46c8d86](https://github.com/City-of-Helsinki/yjdh/commit/46c8d864130172d2010f27adf0b3685409aaf969))
+
+
+### Bug Fixes
+
+* Bump nextjs version ([#3332](https://github.com/City-of-Helsinki/yjdh/issues/3332)) ([8c8935d](https://github.com/City-of-Helsinki/yjdh/commit/8c8935df53c61546fb1909da6bc1e1f6e9b8a1d3))
+* Chrome v130 crashes on startup ([#3450](https://github.com/City-of-Helsinki/yjdh/issues/3450)) ([cad4466](https://github.com/City-of-Helsinki/yjdh/commit/cad44663f83bf1a90f4158c68c4f8b4a069ccfe8))
+
 ## [1.4.0](https://github.com/City-of-Helsinki/yjdh/compare/kesaseteli-youth-v1.3.0...kesaseteli-youth-v1.4.0) (2024-07-27)
 
 
